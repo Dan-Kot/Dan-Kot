@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dan-Kot
-- 👀 I’m interested in Cybersecurity and blockchain
+- 👀 I’m interested in Cybersecurity and Blockchain
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me on discord Skyz#8839
